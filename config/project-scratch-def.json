@@ -1,0 +1,27 @@
+{
+  "orgName": "2GP company",
+  "country": "IN",
+  "edition": "Enterprise",
+  "hasSampleData": true,
+  "features": [
+    "EnableSetPasswordInApi",
+    "ServiceCloud"
+  ],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": true
+    },
+    "omniChannelSettings": {
+      "enableOmniChannel": true
+    },
+    "caseSettings": {
+      "systemUserEmail": "support@acme.com"
+    }
+  }
+}
